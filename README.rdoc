@@ -1,0 +1,13 @@
+== README
+
+This is the Suggestotron Rails app developed in the intermediate level
+Rails training workshop held at Tapjoy in San Francisco on October 19, 2013.
+The class was exceptional: the students were sharp, focused and persistent.
+We ended up completing the intermediate curriculum, and had time to add
+Up-voting and Down-voting, as well as adding a method to the Topic model to
+return an overall rating of topics by subtracting the Down-votes from the
+Up-votes. Very cool.
+
+
+
+
